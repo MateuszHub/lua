@@ -1,0 +1,5 @@
+2022/02/11 11:40:38 [alert] 32#32: lua_code_cache is off; this will hurt performance in /usr/src/app/nginx.conf.compiled:16
+2022/02/11 11:41:28 [alert] 54#54: lua_code_cache is off; this will hurt performance in /usr/src/app/nginx.conf.compiled:16
+2022/02/11 11:54:55 [alert] 36#36: lua_code_cache is off; this will hurt performance in /usr/src/app/nginx.conf.compiled:16
+2022/02/11 16:25:20 [alert] 30#30: lua_code_cache is off; this will hurt performance in /usr/src/app/nginx.conf.compiled:16
+2022/02/13 19:18:42 [alert] 21#21: lua_code_cache is off; this will hurt performance in /usr/src/app/nginx.conf.compiled:16
